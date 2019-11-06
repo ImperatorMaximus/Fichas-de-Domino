@@ -1,0 +1,33 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* a) número de una ficha, 
+escribir una expresion que dadas 2 variables (menor y mayor), 
+conteniendo los valores menor y menor de una ficha de dominó respectivamente 
+calcule el numero asociado segun la siguiente figura
+dada una ficha con numeros 1,5 la expresión debe calcular el número de orden 11. 
+Una ficha 4,6 debe calcular 24
+b) ficha de un numero
+escriba la expresion inversa que reciba un numero y retorne el valor menor y mayor de la ficha */
+
+void numero (int min, int max);
+void ficha (int orden);
+
+int main(int argc, char *argv[]) {
+	int min, int max;
+	printf("¿Quieres una ficha o su orden?")
+	scanf (" " )
+	printf("Ingrese el valor mínimo: \n") scanf("%i", &min)
+	
+	return 0;
+}
+
+void numero (int min, int max){
+	int i,j;
+	int orden;
+	for(i=0; i<=min; i++){
+		for(j=0; j<=max; j++){
+			orden 
+		}
+	}
+}
